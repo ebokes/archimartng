@@ -40,7 +40,7 @@ export function WhyNow() {
           className="mx-auto mt-12 max-w-3xl rounded-3xl border border-accent/30 p-8 text-center text-primary-foreground"
           style={{ background: "var(--gradient-navy)", boxShadow: "var(--shadow-luxury)" }}
         >
-          <p className="text-lg sm:text-xl font-medium">
+          <p className="text-lg sm:text-xl font-medium text-white">
             ARCHIMARTng is digitizing how buildings move from{" "}
             <span className="gold-text-gradient font-bold">idea to execution</span>.
           </p>
